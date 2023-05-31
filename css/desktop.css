@@ -91,7 +91,7 @@
 
 /* HERO SECTION */
 
-.hero {
+.hero-section {
   padding: 188px 0;
 }
 
@@ -206,15 +206,6 @@
 .footer-subscribe {
   display: block;
   margin-left: 80px;
-}
-
-.footer-subscribe-subtitle {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--white-color);
-  margin-bottom: 16px;
 }
 
 .footer-subscribe-form {

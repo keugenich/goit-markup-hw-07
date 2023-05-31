@@ -75,6 +75,8 @@
 }
 /*#region ---styles for hero--- */
 .hero-title {
+  max-width: 496px;
+  text-transform: none;
   font-size: 56px;
   line-height: 1.07;
 }
@@ -118,12 +120,8 @@
 /* footer */
 
 .footer-container {
-  display: flex;
+  text-align: left;
   flex-direction: row;
-}
-
-.footer-logo {
-  justify-content: left;
 }
 
 .footer-logo-text {
@@ -151,10 +149,6 @@
 
 .footer-icons {
   fill: var(--light-bgc);
-}
-
-.footer-subscribe-subtitle {
-  justify-content: left;
 }
 
 .footer-subscribe-form {

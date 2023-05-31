@@ -251,7 +251,7 @@ img {
   margin: 0 auto;
   padding: 112px 0;
   background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-    url(../images/background-image-hero/bgi-image-hero.jpg);
+    url(../images/background-image-hero/bgi-mobile.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -265,7 +265,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/background-image-hero/bgi-mobile.jpg);
+      url(../images/background-image-hero/Dark-bg_mob@2.jpg);
   }
 }
 
@@ -287,7 +287,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/background-image-hero/bgi-tablet.jpg);
+      url(../images/background-image-hero/Dark-bg_tablet@2.jpg);
   }
 }
 
@@ -309,7 +309,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/background-image-hero/bgi-image-hero.jpg);
+      url(../images/background-image-hero/bgi-desk@2.jpg);
   }
 }
 
